@@ -1,1 +1,3 @@
-# develop-servlet-server
+# TIL
+코드는 깃허브
+개념은 티스토리
