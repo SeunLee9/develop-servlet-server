@@ -1,8 +1,8 @@
 package practice;
 
-import java.io.IOException;
-import java.io.InputStream;
+import java.io.*;
 import java.util.Scanner;
+import java.util.StringTokenizer;
 
 public class Practice {
 
@@ -21,7 +21,31 @@ public class Practice {
 //        InputStream InputStream;
 //        Scanner sc = new Scanner(System.setIn(InputStream));
 
-        Scanner sc = new Scanner(System.in);
+
+
+
+
+//        Scanner sc = new Scanner(System.in);
+//
+//        String[] strings = sc.
+
+
+//        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+//        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+////----------------
+//        String letters = "hello intellij im seun";
+//        String []letter = letters.split(" ");
+//
+//        for(int i=0;i<letter.length;i++){
+//            System.out.println(letters);
+//            System.out.println(letter); //주소값으로 나오네
+//            System.out.println(letter[i]);
+//          }
+////----------------
+
+
+
 
 
     }
