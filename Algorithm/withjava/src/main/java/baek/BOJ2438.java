@@ -7,7 +7,10 @@ public class BOJ2438 {
         Scanner step = new Scanner(System.in);
         int bigstep = step.nextInt();
         for (int i=0;i<bigstep;i++){
-            System.out.println('*');
+            for(int j=0;j<i+1;j++) {
+                System.out.print('*');
+            }
+            System.out.println("");
         }
     }
 }
