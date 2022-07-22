@@ -13,8 +13,8 @@ public class BOJ10808 {
 
         System.out.println(Arrays.toString(alphabet));
 
-        public static String count(String s, ){
-
-        }
+//        public static String count(String s, ){
+//
+//        }
     }
 }
