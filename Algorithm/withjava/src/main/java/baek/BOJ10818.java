@@ -26,6 +26,6 @@ public class BOJ10818 {
         b.flush();
         b.close();
 
-        //잘모르겠다
+        //잘모르겠다다
     }
-}
+
