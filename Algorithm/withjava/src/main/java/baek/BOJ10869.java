@@ -41,7 +41,6 @@ public class BOJ10869 {
 //        b.newLine();
 //        b.write(String.valueOf(d/e));
 //        b.newLine();
-//
 ////        string[] f = "+""-""*""/""%";
 ////        for(int i=0;i<f.length;i++){
 ////            b.write(String.valueOf(d+f[i]+e));
